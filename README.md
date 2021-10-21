@@ -58,7 +58,7 @@ User defined variable adalah variabel yang dibuat sendiri oleh programer. Cara p
 - Hindari pemakaian karakter spesial seperti *,&,$.
 - Nama variabel case sensitive, membedakan huruf kecil dengan huruf besar. Contoh variabel “Nama” beda dengan variabel “nama”.
 
-**contoh** 
+**contoh**
 ```bash
 #!/bin/bash
 
@@ -87,7 +87,7 @@ di lab komputer ada 20 pc yang menggunakan linux ubuntu
 clear
 
 a='distro linux ubuntu'
-echo ${#a} 
+echo ${#a}
 
 b=3458623
 echo ${#b}
@@ -97,8 +97,3 @@ echo ${#b}
 19
 7
 ```
-
-
-
-
-
